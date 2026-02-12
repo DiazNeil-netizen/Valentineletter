@@ -60,7 +60,7 @@ yes.addEventListener("click",()=>{
   text.innerHTML="Terima kasih sayang! ❤️";
 
   yes.innerHTML =
-  '<a href="https://wa.me/6289628116619" target="_blank">Message me</a>';
+  '<a href="https://wa.me/6281384600500" target="_blank">Message me</a>';
 
   no.style.display="none";
 
